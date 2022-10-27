@@ -1,0 +1,56 @@
+body {
+   background-color: chocolate
+   
+}
+
+h1 {
+    font-size: 70px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+
+h2 {
+    align-items: flex-end;
+    display: flex;
+   flex-direction: column-reverse;
+   
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+figcaption {
+    text-align: center;
+    
+}
+
+ol {
+    list-style: none;
+    justify-content: space-between;
+    padding-left: 15%;
+    
+   
+}
+
+li {
+   font-size: 50px;
+    
+
+    
+   
+}
+
+li a {
+    color: black;
+    text-decoration: none;
+    
+}
+
+p {
+    font-size: 50px;
+}
